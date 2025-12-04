@@ -86,7 +86,7 @@ A **Flask-based web application** that lets you quickly discover research papers
 - Browse results using pagination  
 - Click on a paper title to open it on arXiv
 
-  <img src="screenshots/output.png" width="500">
+  
 
 
 
